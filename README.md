@@ -1,7 +1,7 @@
 # Responsi-uas
 
-`Nama : Yakobus Epindi Purwanto`
-`NIM  : 19.11.2835`
+"Nama : Yakobus Epindi Purwanto"
+"NIM  : 19.11.2835"
 
 Promos adalah aplikasi pembelian makanan dan minuman yang didalamnya terdapat berbagai jenis promo.
 # Fungsi dan kegunaan
@@ -13,4 +13,23 @@ Promos adalah aplikasi pembelian makanan dan minuman yang didalamnya terdapat be
  -User dapat melihat harga total termasuk potongannya`
 
 # Cara Kerjanya
-m
+Sedang dikerjakan
+
+# Tampilan Awal
+ Seperti inilah tampilan awal pada aplikasi tersebut
+ 
+![tampilan pertama](https://user-images.githubusercontent.com/61915300/104317971-5099e500-5511-11eb-988b-cbb08030b567.JPG)
+
+
+# Simulasi 1
+
+![simpulasi 1](https://user-images.githubusercontent.com/61915300/104318228-b1292200-5511-11eb-83ec-b28fb5ab914a.JPG)
+
+# Simulasi 2
+
+![simulasi 2](https://user-images.githubusercontent.com/61915300/104318710-5a701800-5512-11eb-866a-f3fc35b018aa.JPG)
+
+
+# Simulasi 3
+
+![simulasi 3](https://user-images.githubusercontent.com/61915300/104318762-72479c00-5512-11eb-9d87-7bc8f588681f.JPG)
