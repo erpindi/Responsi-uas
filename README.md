@@ -112,6 +112,7 @@ Code :
 untuk menghapus makanan atau minuman yang telah dimasukan ke keranjang belanja.
 
 code:
+
         private void listBoxPesanan_ItemClicked(object sender, MouseButtonEventArgs e)
         {
             if (MessageBox.Show("Kamu ingin menghapus item ini?",
