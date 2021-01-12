@@ -109,6 +109,9 @@ Code :
             penawaranWindow.Show();
         }
 
+untuk menghapus makanan atau minuman yang telah dimasukan ke keranjang belanja.
+
+code:
         private void listBoxPesanan_ItemClicked(object sender, MouseButtonEventArgs e)
         {
             if (MessageBox.Show("Kamu ingin menghapus item ini?",
@@ -119,6 +122,9 @@ Code :
                 controller.deleteSelectedItem(item);
             }
         }
+        
+Tampilan:
+![menghapus makanan](https://user-images.githubusercontent.com/61915300/104331936-3e747280-5522-11eb-8e70-b3ec9bdbfdf8.JPG)
 
 
 # Simulasi 1
