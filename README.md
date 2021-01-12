@@ -13,3 +13,4 @@ Promos adalah aplikasi pembelian makanan dan minuman yang didalamnya terdapat be
  -User dapat melihat harga total termasuk potongannya`
 
 # Cara Kerjanya
+m
