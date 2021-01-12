@@ -29,14 +29,17 @@ lagi proses pak
 
 
 # Simulasi 1
+pada simulasi pertamana makanan dan minuman yang ditampilkan adalah Coffe Late, Pizza dan Lemon Squash dengan memakai Diskon `Promo Awal Tahun Diskon 25%`
 
 ![simpulasi 1](https://user-images.githubusercontent.com/61915300/104318228-b1292200-5511-11eb-83ec-b28fb5ab914a.JPG)
 
 # Simulasi 2
+pada simulasi pertamana makanan dan minuman yang ditampilkan adalah Coffe Late, Pizza dan Lemon Squash dengan memakai Diskon `Promo Tebus Murah Diskon 30% atau maksimal 30.000`
 
 ![simulasi 2](https://user-images.githubusercontent.com/61915300/104318710-5a701800-5512-11eb-866a-f3fc35b018aa.JPG)
 
 
 # Simulasi 3
+pada simulasi pertamana makanan dan minuman yang ditampilkan adalah Coffe Late, Pizza dan Lemon Squash dengan memakai Diskon `Promo Natal Potongan 10.000`
 
 ![simulasi 3](https://user-images.githubusercontent.com/61915300/104318762-72479c00-5512-11eb-9d87-7bc8f588681f.JPG)
