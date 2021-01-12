@@ -26,6 +26,7 @@ Setelah aplikasi di jalankan dan tampilan awal nya telah di tampilkan. kita bisa
 
 pertama `Penawaran.Xaml.cs` yang bertujuan untuk menawarkan atau menampilkan daftar makanan dan minuman pada listbox.
 
+code :
 
         private void generateContentPenawaran()
         {
@@ -50,6 +51,7 @@ pertama `Penawaran.Xaml.cs` yang bertujuan untuk menawarkan atau menampilkan daf
 
 kemudian  `Voucher.xaml.cs`  yang bertujuan untuk menampilkan berbagai jenis promo pada listbox.
 
+Code:
 
         private void generateListVoucher()
         {
@@ -67,6 +69,7 @@ kemudian  `Voucher.xaml.cs`  yang bertujuan untuk menampilkan berbagai jenis pro
 
 setelah itu `MainWindow.xaml.cs` untuk menginisiasi objek dari `Penawaran.xaml.cs` dan `Voucher.xaml.cs` yang akan di masukan ke keranjang belanja, yang akan ditampilkan pada ListBox.
 
+Code :
 
         public MainWindow()
         {
